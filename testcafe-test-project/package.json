@@ -1,0 +1,14 @@
+{
+  "name": "testcafe-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome upload-file-test.js"
+  },
+  "author": "M Solopii",
+  "license": "ISC",
+  "dependencies": {
+    "testcafe": "^1.13.0"
+  }
+}
